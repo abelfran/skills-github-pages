@@ -12,10 +12,12 @@ Abre `index.html` dentro de la carpeta que contiene la web. Se puede abrir direc
 
 ## Publicarla en GitHub Pages
 
+En este repositorio, la web completa está en la rama `abel-site`. La rama `main` contiene el ejercicio inicial.
+
 1. Crea o selecciona el repositorio donde quieres publicar la web.
 2. Sube el **contenido** de la carpeta de la web. `index.html` debe quedar en la raíz del repositorio, junto a `style.css`, `app.js`, `.nojekyll` y `assets`.
 3. En GitHub, entra a **Settings → Pages**.
-4. Selecciona **Deploy from a branch**, la rama **main** y la carpeta **/(root)**. Guarda.
+4. Selecciona **Deploy from a branch**, la rama **abel-site** y la carpeta **/(root)**. Guarda.
 5. Espera a que GitHub termine la publicación y utiliza el enlace que muestre allí.
 
 El sitio publicado con GitHub Pages y sus fotografías serán accesibles por su dirección. La etiqueta `noindex` solicita a los buscadores que no lo indexen; no establece una contraseña.
